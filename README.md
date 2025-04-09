@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo and I'm a Computer Science Student, from Granada, Spain</p>
+<p align="left">My name is Eduardo Domínguez and I'm a Computer Science Student, from Granada, Spain</p>
 
 ###
 
