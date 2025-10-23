@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CS & Cybersecurity student <br>🔒 Passionate about DevSecOps, Cloud Security & ML <br>💡 Building secure and intelligent systems<br>🎲 Fun fact: I'm a musician too — I can crash a server and play a Bach suite at the same time 🎻🔥
+🎓 CS & Cybersecurity student <br>🔒 Passionate about DevSecOps, Cloud Security & ML <br>💡 Building secure and intelligent systems<br>🎲 Fun fact: I'm a musician too — I can crash a server and play a Bach suite at the same time 🎻🔥<br> 📍 Located at 🇳🇴 <br>
 
 
 # 💻 Tech Stack:
